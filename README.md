@@ -1,4 +1,13 @@
+<div align="center">
+
 # 🚀 Docker Part 1 - Dockerfile for Node.js
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Status](https://img.shields.io/badge/Status-Complete-brightgreen?style=for-the-badge)
+
+</div>
 
 This project demonstrates how to containerize a simple Node.js application using Docker.
 
@@ -112,6 +121,13 @@ docker run -p 5000:5000 docker-part1
 
 ## ⭐ Author
 
+<div align="center">
+
 **Nikhil Shinde**
 
+![Made with Love](https://img.shields.io/badge/Made%20with-%E2%9D%A4-red?style=flat-square)
+![Docker Ready](https://img.shields.io/badge/Docker-Ready-blue?style=flat-square&logo=docker)
+
 If you found this project helpful, don't forget to ⭐ the repository!
+
+</div>
