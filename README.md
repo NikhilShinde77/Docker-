@@ -1,4 +1,4 @@
-
+\
 <div align="center">
 
 <!-- Animated wave banner -->
@@ -7,18 +7,20 @@
 <!-- Typing animation -->
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=2496ED&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=80&lines=Build+%E2%80%A2+Ship+%E2%80%A2+Run;Containerizing+Node.js+with+Docker;From+Dockerfile+to+Running+Container+%F0%9F%90%B3" alt="Typing SVG" />
-  
 </a>
 
-
-
-<br/>
 <br/>
 
-
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Status](https://img.shields.io/badge/Status-Complete-2496ED?style=for-the-badge)
 
 </div>
 
+<br/> 
+
+<br/>
 <br/>
 
 ## 📖 About This Project
@@ -188,4 +190,4 @@ docker run -p 5000:5000 docker-part1
 
 **#Docker #NodeJS #Containerization #DevOps**
 
-</div> 
+</div> add part2 informasen in the read me
