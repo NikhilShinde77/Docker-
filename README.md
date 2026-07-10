@@ -7,7 +7,10 @@
 <!-- Typing animation -->
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=2496ED&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=80&lines=Build+%E2%80%A2+Ship+%E2%80%A2+Run;Containerizing+Node.js+with+Docker;From+Dockerfile+to+Running+Container+%F0%9F%90%B3" alt="Typing SVG" />
+  
 </a>
+
+
 
 <br/>
 
